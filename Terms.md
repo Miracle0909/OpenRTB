@@ -12,7 +12,7 @@
 |eCPM||指的就是每一千次展示可以获得的广告收入，展示的单位可以是网页，广告单元，甚至是单个广告。默认情况下，eCPM 指的都是千次网页展示（Pageview）收入。|
 |CTR|Click Through Rate|点击率，即“点击量”与“展示量”的比值。|
 |PV|Page View|流量|
-|PV|User Visit|用户访问量|
+|UV|User Visit|用户访问量|
 |ADPV|Advertisement Page View|载有广告的pageview流量|
 |ADimp|ADimpression|单个广告的展示次数|
 |PV单价||每PV的收入，衡量页面流量变现能力的指标|
